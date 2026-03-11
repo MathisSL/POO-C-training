@@ -1,2 +1,2 @@
-# POO-C-training
+# POO-Cpp-training
 Training c++
